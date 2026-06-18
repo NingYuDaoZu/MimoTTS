@@ -87,17 +87,6 @@ python app.py
 
 ---
 
-## 项目结构
-
-```
-mimotts/
-├── app.py              # GUI 主程序
-├── voice_clone.py      # CLI 版音色克隆工具
-├── key.txt             # API Key 存储（不提交到 Git）
-├── .gitignore
-└── README.md
-```
-
 ---
 
 ## 依赖
