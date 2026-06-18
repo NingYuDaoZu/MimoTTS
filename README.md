@@ -101,7 +101,7 @@ python app.py
 
 - [小米 MiMo TTS](https://platform.mimotts.com) — 提供语音合成模型 API
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) — 提供美观的 Tkinter 扩展
-- [小涙滴] — 提供技术支持
+- [爱妻小涙滴] — 提供一切支持
 ---
 
 ## 许可证
